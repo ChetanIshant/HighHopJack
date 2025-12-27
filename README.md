@@ -72,5 +72,7 @@ Because of this, it is intended to be compiled and run in one of these environme
 
 ## Author
 
-Made by: Chetan Urf Ishant
+Made by: Chetan Urf Ishant.
+
 If you fork or improve it, feel free to open a PR!
+
