@@ -293,3 +293,7 @@ int main()
 	getch();
 	return 0;
 }
+
+
+//this code will be run in TurboC environment
+//I tried my best to implement multithreading through my project 
